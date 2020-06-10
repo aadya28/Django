@@ -1,0 +1,5 @@
+.vscode
+
+/login/__pycache__
+/login/migrations/__pycache__
+/Hello_World/__pycache__
